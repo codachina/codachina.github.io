@@ -265,6 +265,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  intros:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -279,3 +284,15 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _intros
+  - scope:
+      path: ""
+      type: intros
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "intros"
