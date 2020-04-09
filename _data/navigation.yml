@@ -14,7 +14,7 @@ main:
   #   url: /sitemap/
 
 # documentation links
-docs:
+pages:
   - title: Code协议
     children:
       - title: "Coda 协议 — 一个简洁的区块链协议"
