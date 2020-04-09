@@ -284,28 +284,14 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _pages
+
   - scope:
-      path: ""
+      path: "doc/intros"
       type: pages
     values:
       layout: single
+      toc: true
       author_profile: false
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      read_time: false
       sidebar:
         nav: "intros"
-  # _docs
-  - scope:
-      path: "_docs"
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
