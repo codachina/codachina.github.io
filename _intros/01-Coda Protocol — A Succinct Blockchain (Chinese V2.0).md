@@ -1,5 +1,5 @@
 ---
-title: "Coda 协议 — 一个简洁的区块链协议"
+title: "coda-protocol"
 permalink: /intros/coda-protocol/
 excerpt: "一个简洁的区块链协议."
 collection: intros
