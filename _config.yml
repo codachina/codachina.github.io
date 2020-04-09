@@ -284,16 +284,6 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _intros
-  - scope:
-      path: "_intros"
-      type: intros
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
   # _pages
   - scope:
       path: ""
@@ -305,6 +295,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "intros"
   # _docs
   - scope:
       path: "_docs"
