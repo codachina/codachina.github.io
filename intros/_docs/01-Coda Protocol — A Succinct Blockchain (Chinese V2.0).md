@@ -1,3 +1,13 @@
+---
+title: "Coda 协议 — 一个简洁的区块链协议"
+permalink: /intros/coda-protocol/
+excerpt: "一个简洁的区块链协议."
+last_modified_at: 2020-04-09T21:36:11-04:00
+redirect_from:
+  - /theme-setup/
+toc: true
+---
+
 # Coda 协议 — 一个简洁的区块链协议
 
 原文：https://medium.com/@masked/the-coda-protocol-bbcb4b212b13
