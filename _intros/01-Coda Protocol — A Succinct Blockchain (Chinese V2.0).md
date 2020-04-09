@@ -2,6 +2,7 @@
 title: "Coda 协议 — 一个简洁的区块链协议"
 permalink: /intros/coda-protocol/
 excerpt: "一个简洁的区块链协议."
+collection: intros
 last_modified_at: 2020-04-09T21:36:11-04:00
 toc: true
 ---

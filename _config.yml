@@ -286,7 +286,7 @@ defaults:
       related: true
   # _intros
   - scope:
-      path: ""
+      path: "_intros"
       type: intros
     values:
       layout: single
