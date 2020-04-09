@@ -294,8 +294,6 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar:
-        nav: "intros"
   # _pages
   - scope:
       path: ""
@@ -307,7 +305,7 @@ defaults:
       comments: # true
       share: true
       related: true
-    # _docs
+  # _docs
   - scope:
       path: ""
       type: docs
