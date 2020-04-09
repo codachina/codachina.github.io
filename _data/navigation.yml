@@ -14,3 +14,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# documentation links
+docs:
+  - title: Code协议
+    children:
+      - title: "Coda 协议 — 一个简洁的区块链协议"
+        url: /intros/coda-protocol/
+  - title: Code生态
+    children:
+      - title: "Coda：经济模型和货币政策"
+        url: /intros/economicsWP/
