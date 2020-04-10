@@ -295,3 +295,13 @@ defaults:
       read_time: false
       sidebar:
         nav: "intros"
+  - scope:
+      path: "doc/news"
+      type: pages
+    values:
+      layout: single
+      toc: true
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "news"
