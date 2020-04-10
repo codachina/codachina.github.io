@@ -3,9 +3,9 @@ main:
   - title: "项目官网"
     url: https://codaprotocol.com/
   - title: "你好Coda"
-    url: /intros/coda-protocol/
+    url: /doc/intros/01-the-coda-protocol/
   - title: "Coda资讯"
-    url: /news/
+    url: /doc/news/ama/01-staking-hub-coda-protocol-ama
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -22,7 +22,7 @@ intros:
   - title: Code生态
     children:
       - title: "Coda：经济模型和货币政策"
-        url: /doc/intros/economicsWP/
+        url: /doc/intros/02-economicsWP/
 news:
   - title: AMA
     children:
