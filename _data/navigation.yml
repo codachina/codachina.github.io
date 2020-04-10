@@ -5,7 +5,7 @@ main:
   - title: "你好Coda"
     url: /doc/intros/01-the-coda-protocol/
   - title: "Coda资讯"
-    url: /doc/news/ama/01-staking-hub-coda-protocol-ama
+    url: /doc/news/ama/01-staking-hub-coda-protocol-ama/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -27,5 +27,5 @@ news:
   - title: AMA
     children:
       - title: "Coda - AMA Coda @Staking Hub"
-        url: /doc/news/ama/01-staking-hub-coda-protocol-ama
+        url: /doc/news/ama/01-staking-hub-coda-protocol-ama/
 
