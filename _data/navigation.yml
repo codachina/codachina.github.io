@@ -4,8 +4,12 @@ main:
     url: https://codaprotocol.com/
   - title: "你好Coda"
     url: /doc/intros/01-the-coda-protocol/
-  - title: "Coda资讯"
+  - title: "资讯"
     url: /doc/news/ama/01-staking-hub-coda-protocol-ama/
+  - title: "测试网络"
+    url: /doc/testnet/
+  - title: "创世纪计划"
+    url: /doc/genesis-program/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
