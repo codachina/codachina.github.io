@@ -286,7 +286,7 @@ defaults:
       related: true
 
   - scope:
-      path: "doc/intros"
+      path: "/doc/intros"
       type: pages
     values:
       layout: single
@@ -296,7 +296,7 @@ defaults:
       sidebar:
         nav: "intros"
   - scope:
-      path: "doc/news"
+      path: "/doc/news"
       type: pages
     values:
       layout: single

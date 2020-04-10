@@ -1,9 +1,5 @@
 ---
 title: "Coda：经济模型和货币政策"
-permalink: /intros/economicsWP/
-excerpt: "一个简洁的区块链协议."
-collection: intros
-last_modified_at: 2020-04-09T21:36:11-04:00
 toc: true
 ---
 
