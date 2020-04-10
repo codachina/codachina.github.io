@@ -23,3 +23,9 @@ intros:
     children:
       - title: "Coda：经济模型和货币政策"
         url: /doc/intros/economicsWP/
+news:
+  - title: AMA
+    children:
+      - title: "Coda - AMA Coda @Staking Hub"
+        url: /doc/news/ama-staking-hub/
+
