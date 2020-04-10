@@ -18,7 +18,7 @@ intros:
   - title: Code协议
     children:
       - title: "Coda 协议 — 一个简洁的区块链协议"
-        url: /doc/intros/coda-protocol/
+        url: /doc/intros/01-the-coda-protocol/
   - title: Code生态
     children:
       - title: "Coda：经济模型和货币政策"
