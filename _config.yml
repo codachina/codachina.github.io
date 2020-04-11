@@ -299,3 +299,23 @@ defaults:
       read_time: false
       sidebar:
         nav: "news"
+  - scope:
+      path: "doc/testnet"
+      type: pages
+    values:
+      layout: single
+      toc: true
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "testnet"
+  - scope:
+      path: "doc/genesis"
+      type: pages
+    values:
+      layout: single
+      toc: true
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "genesis"

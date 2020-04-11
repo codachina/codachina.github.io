@@ -4,8 +4,12 @@ main:
     url: https://codaprotocol.com/
   - title: "你好Coda"
     url: /doc/intros/01-the-coda-protocol/
-  - title: "Coda资讯"
+  - title: "资讯"
     url: /doc/news/ama/01-staking-hub-coda-protocol-ama/
+  - title: "测试网络"
+    url: /doc/testnet/
+  - title: "创世纪计划"
+    url: /doc/genesis-program/faq
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -28,4 +32,22 @@ news:
     children:
       - title: "Coda - AMA Coda @Staking Hub"
         url: /doc/news/ama/01-staking-hub-coda-protocol-ama/
+testnet:
+  - title: Coda测试网介绍文档
+    children:
+      - title: "总览"
+        url: /doc/testnet/01-overview/
+      - title: "入门"
+        url: /doc/testnet/02-getting-started/
+      - title: "第一个交易"
+        url: /doc/testnet/03-my-first-transaction/
+      - title: "成为节点"
+        url: /doc/testnet/04-become-a-node-operator/
+genesis:
+  - title: 创世纪计划
+    children:
+      - title: "FAQ"
+        url: /doc/genesis/01-faq/
+      - title: "新闻稿"
+        url: /doc/genesis/02-press-release/
 
