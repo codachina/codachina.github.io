@@ -23,6 +23,10 @@ intros:
     children:
       - title: "Coda 协议 — 一个简洁的区块链协议"
         url: /doc/intros/01-the-coda-protocol/
+      - title: "为什么SNARKs是未来十年的技术"
+        url: /doc/intros/03-why-snarks-are-the-technology-of-the-coming-decade/
+      - title: "为什么SNARKs是未来十年的技术"
+        url: /doc/intros/04-what-are-zk-snarks/
   - title: Code生态
     children:
       - title: "Coda：经济模型和货币政策"
@@ -43,6 +47,10 @@ testnet:
         url: /doc/testnet/03-my-first-transaction/
       - title: "成为节点"
         url: /doc/testnet/04-become-a-node-operator/
+  - title: 测试网挑战：每个人都能参与
+    children:
+      - title: "测试网挑战：每个人都能参与"
+        url: /doc/testnet/05-challenges/
 genesis:
   - title: 创世纪计划
     children:
