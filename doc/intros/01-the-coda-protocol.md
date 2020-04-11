@@ -23,7 +23,7 @@ hack.summit(“blockchain”) 2018 — Izaak Meckler — co-founder and CTO, Cod
 
 *在“加密世界”中，我们经常被鼓励遵循“不信任，验证”的座右铭。虽然区块链需要全节点，但是很少节点愿意做全节点，因为对全节点的要求越来越高。*
 
-<img src="./assets/images/1*cELjxQwXYMqroQ0TgoSd1A.jpg" style="zoom:35%;" />
+<img src="/assets/images/intros/01-*cELjxQwXYMqroQ0TgoSd1A.jpg" style="zoom:35%;" />
 
 ​							          比特币的区块链数据增长（从2009年到2018年，MB为单位） 
 
@@ -39,7 +39,7 @@ hack.summit(“blockchain”) 2018 — Izaak Meckler — co-founder and CTO, Cod
 - 在计算机上运行全节点非常复杂，在手机上无法运行。
 - 信任第三方来完成验证更容易。
 
-<img src="./assets/images/0*3Nod-k_4sVhkqz13.jpg" style="zoom:60%;" />
+<img src="/assets/images/intros/01-*3Nod-k_4sVhkqz13.jpg" style="zoom:60%;" />
 
 在任何一种特定的加密货币的早期，由于区块链很小（*可能只有几兆字节*），操作整个节点相对容易。但是，随着时间的流逝和记录更多的事务，它会增长到数百GB（如上图所示）。也就是说，在一般的计算机上维护节点不太现实，更别提在**智能手机**上了。
 
@@ -83,7 +83,7 @@ SNARK证明必须真实生成，否则无效。网络中的任何人都可以在
 
 *在低端计算设备上能验证区块的正确性是针对当前问题的可持续且可扩展的解决方案的第一步。*
 
-<img src="./assets/images/0*Y5qiN4mQ3dWolofS.png" style="zoom:60%;" />
+<img src="/assets/images/intros/01-*Y5qiN4mQ3dWolofS.png" style="zoom:60%;" />
 
 节点间可以传递SNARK的证明，而不必传输区块中的所有交易。
 
@@ -104,7 +104,7 @@ SNARK证明必须真实生成，否则无效。网络中的任何人都可以在
 
 我们知道一个SNARK证明可以验证任何计算。创建一个SNARK证明本身也是一种计算，那**能不能创建一个SNARK证明能证明多个SNARK证明？**
 
-<img src=".assets/images/0*oPqhLi91z1V_H2pJ.png" style="zoom:60%;" />
+<img src="/assets/images/intros/01-*oPqhLi91z1V_H2pJ.png" style="zoom:60%;" />
 
 ​													每个都被终端用户验证过的SNARK证明
 
@@ -114,7 +114,7 @@ SNARK证明必须真实生成，否则无效。网络中的任何人都可以在
 
 每次每生成一个新块，就会生成一个新的SNARK证明。该证明能证明之前的所有的证明，也就是说，一个证明能证明所有的从创世纪的区块到最新区块的所有的交易状态。
 
-<img src="./assets/images/0*yzdwtbQurT-RKsSa.png" style="zoom:60%;" />
+<img src="/assets/images/intros/01-*yzdwtbQurT-RKsSa.png" style="zoom:60%;" />
 
 
 ​																多个SNARK证明被“压缩”成一个SNARK证明
@@ -132,7 +132,7 @@ SNARK证明必须真实生成，否则无效。网络中的任何人都可以在
 
 一个**递归生成的zk-SNARK证明（1kB）**，以及一个**默克尔树的路径**。SNARK证明能证明所有的交易历史的正确性。这两个信息一起能证明一个用户的账户信息的正确性。所有这些信息只需要毫秒级时间就能同步完。
 
-<img src="./assets/images/0*Par2LpIhHQPmO0oo.jpg" style="zoom:60%;" />
+<img src="/assets/images/intros/01-*Par2LpIhHQPmO0oo.jpg" style="zoom:60%;" />
 
 终端用户验证当前状态，其中包括所有所有交易的SNARK证明以及默克尔路径。这些信息可以让一个用户可以验证其余额。
 
@@ -172,7 +172,7 @@ Coda协议使终端用户可以轻松地通过**浏览器和应用程序“访�
 
 你可以将Coda协议想像成精灵宝可梦的宝贝球。Coda协议，就像将卡比兽压缩进宝贝球一样，将交易信息压缩成固定大小的SNARK证明。
 
-<img src="./assets/images/0*W-KdFZyAk-vP8PFA.jpg" style="zoom:60%;" />
+<img src="/assets/images/intros/01-*W-KdFZyAk-vP8PFA.jpg" style="zoom:60%;" />
 
 ​                                                                摘自ZCon0 — Izaak Meckler
 
