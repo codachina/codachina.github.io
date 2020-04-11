@@ -8,7 +8,7 @@ toc: true
 翻译：viboracecata
 2020-3-26
 
-初始发布于 The SNARK Age Newsletter
+初始发布于 [The SNARK Age Newsletter](https://snarkage.substack.com/)
 ```
 “每一种技术，当其潜力被耗尽的窘境越来越明显时，它都会经历一种长期困难的扩展过程...  通常当新技术的卓越性能成功落地，就高调宣称着旧技术革新的没落，而进入“新世界的逻辑”所产生的变动，仍需要二三十年动荡的新旧交替。 到整个过程已经发生，上一次革新的落幕也就聊胜于哀号了” - Carlota Perez, 技术革命与金融资本
 ```

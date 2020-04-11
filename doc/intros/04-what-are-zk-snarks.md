@@ -4,6 +4,7 @@ toc: true
 ---
 
 密码学中最强大证明的完全导读
+
 翻译：viboracecata@gmail.com
 
 ## 开始
@@ -18,7 +19,6 @@ Proof-Systems.”中被阐述。但问题却依然存在：它们到底是什么
 首先，Izaak和Vanishree，我们加密学组的两位成员，它们一生致力于zk-SNARKs的学习，将会
 引导你从一篇介绍开始。
 ### [零知识证明：一个直观的解释](https://codaprotocol.com/blog/zero-knowledge-proofs-an-intuitive-explanation)
-### [零知识证明：一个直观的解释](https://codaprotocol.com/blog/zero-knowledge-proofs-an-intuitive-explanation)
 Vanishree Rao，一位在Coda协议工作的密码学工作者，提供了这篇解释，他使用了经典的三色
 问题来介绍关键概念，包括健壮性，零知识和验证者。文字非常直观，花少于5分钟的时间来阅读
 将使你得到一个良好的开端。
@@ -30,7 +30,7 @@ Vanishree Rao，一位在Coda协议工作的密码学工作者，提供了这篇
 ## 学习更多
 这些是最好的101-风格的资源，他们让零知识证明和zk-SNARKs更加的易于理解。视觉比喻和简
 单解释都用来提炼和扩展上面介绍到的概念。
-### 零知识证明的介绍
+### [零知识证明的介绍]()
 这是好的起点。首先，它有一些历史背景，解释了1985年论文“The Knowledge Complexity of
 Interactive Proof-Systems”的原始场景，而这篇论文正是所有事件的开端。其次，它有一个简单
 的，更加视觉化的阿里巴巴洞穴的传说作为例子。第三，它提供了一个漂亮简洁的摘要，包含零
