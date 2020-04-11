@@ -25,7 +25,7 @@ intros:
         url: /doc/intros/01-the-coda-protocol/
       - title: "为什么SNARKs是未来十年的技术"
         url: /doc/intros/03-why-snarks-are-the-technology-of-the-coming-decade/
-      - title: "为什么SNARKs是未来十年的技术"
+      - title: "什么是zk-SNARKs"
         url: /doc/intros/04-what-are-zk-snarks/
   - title: Code生态
     children:
@@ -47,7 +47,7 @@ testnet:
         url: /doc/testnet/03-my-first-transaction/
       - title: "成为节点"
         url: /doc/testnet/04-become-a-node-operator/
-  - title: 测试网挑战：每个人都能参与
+  - title: 测试网挑战
     children:
       - title: "测试网挑战：每个人都能参与"
         url: /doc/testnet/05-challenges/
