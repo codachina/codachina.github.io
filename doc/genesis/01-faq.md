@@ -119,8 +119,8 @@ toc: true
 
 有关创世纪计划的更多信息，请参见：
 
-网站-[codaprotocol.com/genesis](http://codaprotocol.com/genesis)
-条款和条件-[codaprotocol.com/tcgenesis](http://codaprotocol.com/tcgenesis)
-新闻稿-[bit.ly/genesisprogram](http://bit.ly/genesisprogram)
+网站-[codaprotocol.com/genesis](http://codaprotocol.com/genesis)  
+条款和条件-[codaprotocol.com/tcgenesis](http://codaprotocol.com/tcgenesis)  
+新闻稿-[bit.ly/genesisprogram](http://bit.ly/genesisprogram)  
 
 * 测试网积分仅用于跟踪记录对测试网的贡献，测试网积分没有现金或其他货币价值。 测试网积分不可转让，不可兑换或交换任何加密货币或数字资产。我们可以随时修改或取消测试网积分。
