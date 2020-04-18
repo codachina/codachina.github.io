@@ -1,6 +1,7 @@
 ---
 title: Coda - AMA Coda @Staking Hub
 toc: true
+last_modified_at:   2020-3-31
 ---
 
 原文：https://figment.network/resources/staking-hub-coda-protocol-ama/ 

@@ -1,12 +1,8 @@
 ---
 title: 为什么SNARKs是未来十年的技术
 toc: true
+last_modified_at:   2020-3-26
 ---
-
-撰文： PRANAY MOHAN
-2020-01-14
-翻译：viboracecata
-2020-3-26
 
 初始发布于 [The SNARK Age Newsletter](https://snarkage.substack.com/)
 ```
