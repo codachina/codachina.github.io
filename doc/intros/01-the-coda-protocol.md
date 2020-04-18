@@ -1,6 +1,7 @@
 ---
 title: "Coda 协议 — 一个简洁的区块链协议"
 toc: true
+last_modified_at:   2019-03-31
 ---
 
 原文：https://medium.com/@masked/the-coda-protocol-bbcb4b212b13

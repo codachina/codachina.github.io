@@ -8,7 +8,7 @@ main:
     url: /doc/news/ama/01-staking-hub-coda-protocol-ama/
   - title: "测试网络"
     url: /doc/testnet/01-overview/
-  - title: "创世纪计划"
+  - title: "Genesis计划"
     url: /doc/genesis/01-faq/
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -52,7 +52,7 @@ testnet:
       - title: "测试网挑战：每个人都能参与"
         url: /doc/testnet/05-challenges/
 genesis:
-  - title: 创世纪计划
+  - title: Genesis计划
     children:
       - title: "FAQ"
         url: /doc/genesis/01-faq/
